@@ -1,26 +1,54 @@
 /*
-	Aerial by HTML5 UP
+	Hyperspace by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Header */
+/* Type */
 
-	#header nav a {
-		position: relative;
-		border: solid 1px #fff;
-		border-radius: 100%;
-		-ms-behavior: url("assets/js/ie/PIE.htc");
+	body, input, select, textarea {
+		color: #ffffff;
 	}
 
-		#header nav a:before {
-			border: 0;
+/* Button */
+
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	button,
+	.button {
+		position: relative;
+	}
+
+		input[type="submit"]:after,
+		input[type="reset"]:after,
+		input[type="button"]:after,
+		button:after,
+		.button:after {
+			display: none;
 		}
 
-/* Footer */
+/* Features */
 
-	#footer {
-		background-image: url("images/ie/footer.png");
-		background-position: bottom left;
-		background-repeat: repeat-x;
+	.features {
+		border: solid 1px;
+	}
+
+/* Form */
+
+	input[type="text"],
+	input[type="password"],
+	input[type="email"],
+	input[type="tel"],
+	select,
+	textarea {
+		background: transparent;
+		border: solid 1px;
+	}
+
+/* Split */
+
+	.split.style1 > :first-child {
+		padding-right: 2em;
+		width: 70%;
 	}
