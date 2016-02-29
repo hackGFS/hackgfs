@@ -104,6 +104,13 @@
 							<p>Here are most of the essential questions that are usually asked about hackathons. If you have a specific question, please feel free to contact us!</p>
 							<div class="features">
 								<section>
+									<span class="icon major fa-clock-o"></span>
+									<h3>When is the event again?</h3>
+									<p>hackGFS is from 2:00 PM, May 14th until 2:00 PM, May 15th.
+									</p>
+									<a target="_blank" href="http://bit.ly/hackgfsregister" class="button scrolly">Register</a>
+								</section>
+								<section>
 									<span class="icon major fa-code"></span>
 									<h3>What is hackGFS?</h3>
 									<p>hackGFS is the first hackathon run by students from Germantown Friends School in Philadelphia.  A hackathon is a social event where you are given 24 hours to build something dope while meeting new people and expanding your knowledge.  </p>
