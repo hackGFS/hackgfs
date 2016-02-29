@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>hackGFS // May 14 - 15, 2016</title>
+		<title>hackGFS // May 14 - 15, 2016 | Philadelphia's First High School Hackathon</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -64,9 +64,9 @@
 							<div class="content">
 								<div class="inner">
 									<h2>What?</h2>
-									<p>A hackathon is a timed event where developers from all over combine their creativity and enthusiasm to build something awesome!  "Hacks" are simply the products built, and have <i>nothing</i> to do with Hollywood's idea of <a href="https://www.youtube.com/watch?v=u8qgehH3kEQ">"hacking"</a>.   </p>
+									<p>hackGFS is <b>Philadelphia's first high school hackathon</b>, meaning that it is planned by high school students, and hosted on a high school campus. hackGFS is open to anyone who is interested in exploring computer science, but no prior knowledge is needed - <b>we're open to anyone who wants to create.</b> There is also a chance to win cool <a href="#prizes"><b>prizes</b></a> and present to our panel of judges!</p>
 									<ul class="actions">
-										<li><a target="_blank" href="https://medium.com/hackathons-anonymous/what-is-a-hackathon-3d5413601c05#.yqauf4fr5" class="button">Learn More</a></li>
+										<li><a target="_blank" href="https://medium.com/hackathons-anonymous/what-is-a-hackathon-3d5413601c05#.yqauf4fr5" class="button">Learn More about hackathons</a></li>
 									</ul>
 								</div>
 							</div>
@@ -76,10 +76,10 @@
 							<div class="content">
 								<div class="inner">
 									<h2>When?</h2>
-									<p>hackGFS is a 24 hour hackathon from May 14-15.  More specific times will be posted as a schedule closer to the time of the event.</p>
-									<ul class="actions">
+									<p>hackGFS is a 24 hour hackathon starting at 2 PM on May 14th, and ending at 2 PM on May 15th. Our schedule is in the works, so stay tuned by subscribing to hear when it comes out!</p>
+									<!--<ul class="actions">
 										<li><a href="#" class="button">Save the Date</a></li>
-									</ul>
+									</ul>-->
 								</div>
 							</div>
 						</section>
@@ -101,7 +101,7 @@
 					<section id="two" class="wrapper style3 fade-up">
 						<div class="inner">
 							<h2>Frequently Asked Questions</h2>
-							<p>Here are most of the essential questions that are usually asked about hackathons. If you have a specific question, please feel free to contact us!</p>
+							<p></p>
 							<div class="features">
 								<section>
 									<span class="icon major fa-clock-o"></span>
@@ -189,7 +189,7 @@
 					<center><section id="intro" class="wrapper style1 fullscreen fade-up register-panel">
 						<div id="register" class="inner">
 							<h1>hackGFS // May 14 - 15, 2016</h1>
-							<p>Engineered by a few, structured for all</p>
+							<p>We hope to see you there!</p>
 							<center><ul class="actions">
 								<li><a target="_blank" href="http://bit.ly/hackgfsregister" class="button scrolly">Register Now!</a></li>
 							</ul></center>
