@@ -31,7 +31,7 @@ class HomeController extends BaseController {
 
 		$subscribe->save();
 
-		return true;
+		return 'true';
 
 	}
 
