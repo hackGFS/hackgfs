@@ -51,7 +51,7 @@
 							<p>Engineered by a few, structured for all</p>
 							<center><ul class="actions">
 								<li><a href="#one" class="button scrolly">Learn more</a></li>
-								<li><a target="_blank" href="http://apply.hackgfs.io" class="button scrolly">Register</a></li>
+								<li><a target="_blank" href="http://bit.ly/hackgfsregister" class="button scrolly">Register</a></li>
 								<li><a href="http://hackgfs.io/sponsorship.pdf" class="button scrolly">Sponsor</a></li>
 							</ul></center>
 						</div>
@@ -145,8 +145,8 @@
 							<a class="image"><img src="images/first.png" alt="" data-position="center center" /></a>
 							<div class="content">
 								<div class="inner">
-									<h2>1st Place: Moto360</h2>
-									<p>Moto 360 is a modern timepiece powered by Android Wear. Comfortable, familiar, and crafted with the finest materials, Moto 360 keeps you up to date without taking you away from the moment. Glance at your wrist to see updates or just speak to get the info you need. Because it’s time a watch told you more than just the time.</p>
+									<h2>1st Place: Moto 360</h2>
+									<p>Moto 360 is a modern timepiece powered by Android Wear. Comfortable, familiar, and crafted with the finest materials, Moto 360 keeps you up to date without taking you away from the moment. <b>hackGFS will award each member of the first place team a Moto 360</b></p>
 									<ul class="actions">
 										<li><a target="_blank" href="http://www.motorola.com/us/products/moto-360" class="button">Learn More</a></li>
 									</ul>
@@ -158,7 +158,7 @@
 							<div class="content">
 								<div class="inner">
 									<h2>2nd Place: Amazon Echo</h2>
-									<p>Amazon Echo is a hands-free speaker you control with your voice. Echo connects to the Alexa Voice Service, to play music, provide information, news, sports scores, weather, and more—instantly. All you have to do is ask.</p>
+									<p>Amazon Echo is a hands-free speaker you control with your voice. Echo connects to the Alexa Voice Service, to play music, provide information, news, sports scores, weather, and more—instantly. <b>hackGFS will award each member of the second place team an Amazon Echo</b></p>
 									<ul class="actions">
 										<li><a target="_blank" href="http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E" class="button">Learn More</a></li>
 									</ul>
@@ -184,7 +184,7 @@
 							<h1>hackGFS // May 14 - 15, 2016</h1>
 							<p>Engineered by a few, structured for all</p>
 							<center><ul class="actions">
-								<li><a target="_blank" href="http://apply.hackgfs.io" class="button scrolly">Register Now!</a></li>
+								<li><a target="_blank" href="http://bit.ly/hackgfsregister" class="button scrolly">Register Now!</a></li>
 							</ul></center>
 						</div>
 					</section></center>
