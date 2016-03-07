@@ -170,7 +170,7 @@
 					var	$this = $(this),
 						$image = $this.find('.image'),
 						$img = $image.find('img'),
-						x;
+						x, y, z;
 
 					// Assign image.
 						$image.css('background-image', 'url(' + $img.attr('src') + ')');
@@ -178,6 +178,13 @@
 					// Set background position.
 						if (x = $img.data('position'))
 							$image.css('background-position', x);
+					// Set background size
+						if (y = $img.data('size'))
+							$image.css('background-size', y);
+
+					// Set Repeat
+						if (z = $img.data('repeat'))
+							$image.css('background-repeat', z);
 
 					// Hide <img>.
 						$img.hide();

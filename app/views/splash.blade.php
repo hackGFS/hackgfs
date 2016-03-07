@@ -46,6 +46,9 @@
 
 				<!-- Intro -->
 					<center><section id="intro" class="wrapper style1 fullscreen fade-up">
+						<a id="mlh-trust-badge" style="border:none!important;position:absolute;top:0;right:15px;max-width:100px;width:10%;min-width: 50px;display:block;z-index:10000;" href="https://mlh.io/seasons/s2016/events?utm_source=s2016&utm_medium=TrustBadge&utm_campaign=s2016" target="_blank">
+							<img src="https://s3.amazonaws.com/logged-assets/trust-badge/s2016.png" alt="MLH Official - Spring 2016" style="width:100%;" >
+						</a>
 						<div class="inner">
 							<h1>hackGFS // May 14 - 15, 2016</h1>
 							<p>Engineered by a few, structured for all</p>
@@ -242,38 +245,33 @@
 					
 
 					<!--<iframe frameborder="0" height="500" scrolling="no" src="https://www.kickstarter.com/projects/404243180/hackgfs/widget/card.html?v=2" width="350"></iframe>-->
+					<!--<style type="text/css">
+							.partners{
+								margin-right: 30px!important;
+								margin-left: 30px !important;
+							}
 
-					<!--<section id="sponsors" class="wrapper style1 fade-up">
-						<div class="inner">
-							<h2>Sponsors</h2>
-							<div class="features">
-								<style type="text/css">
-									div.sponsor-media-banner{
-										height: 120px;
-										width: 300px;
-										background-position: center;
-										background-size: 100% 100%;
-									}
-								</style>
-								<section>
-									<div class="sponsor-media-banner image" style="background-image: url('sponsors/lob.png');"></div>
-									<!--<a href="#" class="image"><img src="sponsors/lob.png" alt="" data-position="center center" /></a>-->
-								<!--</section>
-								<!--<section>
-									<div class="sponsor-media-banner image"></div>
-									<!--<a href="#" class="image"><img src="sponsors/lob.png" alt="" data-position="center center" /></a>-->
-								<!--</section>
-								<!--<section>
-									<div class="sponsor-media-banner image"></div>
-									<!--<a href="#" class="image"><img src="sponsors/lob.png" alt="" data-position="center center" /></a>-->
-								<!--</section>
-								<!--<section>
-									<div class="sponsor-media-banner image"></div>
-									<!--<a href="#" class="image"><img src="sponsors/lob.png" alt="" data-position="center center" /></a>-->
-								<!--</section>
-							</div>
-						</div>
-					</section>-->
+							#sponsors{
+								padding: 30px;
+							}
+
+					</style>
+
+					<section id="sponsors" class="wrapper style1 spotlights">
+						
+						<!--<center><h2>Partnered With:</h2></center>-->
+						<!--<section>
+							<a class="image partners" target="_blank" href="https://mlh.io/"><img src="images/mlh-logo.png" alt="" data-position="center" data-size="contain" data-repeat="no-repeat" /></a>
+						</section>-->
+
+						<!--<center><h2>Sponsored By:</h2></center>-->
+						<!--<section>
+							<a class="image partners" style="height:100px" target="_blank" href="https://mlh.io/"><img src="sponsors/lob.png" alt="" data-position="center" data-size="contain" data-repeat="no-repeat" /></a>
+						</section>
+
+						
+
+					</section>
 
 					<!--<footer id="footer" class="wrapper style2-alt">
 						<div class="inner">
