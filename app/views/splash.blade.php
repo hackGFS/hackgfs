@@ -33,9 +33,20 @@
 							<li><a href="#one">What, When and Where</a></li>
 							<li><a href="#two">FAQ</a></li>
 							<li><a href="#prizes">Prizes</a></li>
-							<li><a href="#register">Register</a></li>
+							<li><a id="linkRegister" href="#">Register</a></li>
+							<li><a href="#sponsors">Sponsors</a></li>
 							<li><a href="#subscribe">Subscribe</a></li>
-							<!--<li><a href="#sponsors">Sponsors</a></li>-->
+							<li><a id="linkKickstarter" href="#">Kickstarter</a></li>
+
+							<script type="text/javascript">
+								$('#linkRegister').on('click', function(){
+									window.open('http://bit.ly/hackgfsregister', '_blank');
+								});
+
+								$('#linkKickstarter').on('click', function(){
+									window.open('http://kck.st/1Li6CVj', '_blank');
+								});
+							</script>
 						</ul>
 					</nav>
 				</div>
@@ -55,7 +66,7 @@
 							<center><ul class="actions">
 								<li><a href="#one" class="button scrolly">Learn more</a></li>
 								<li><a target="_blank" href="http://bit.ly/hackgfsregister" class="button scrolly">Register</a></li>
-								<li><a href="http://hackgfs.io/sponsorship.pdf" class="button scrolly">Sponsor</a></li>
+								<!--<li><a href="http://hackgfs.io/sponsorship.pdf" class="button scrolly">Sponsor</a></li>-->
 							</ul></center>
 						</div>
 					</section></center>
@@ -189,7 +200,7 @@
 						</section>
 					</section>
 			
-					<center><section id="intro" class="wrapper style1 fullscreen fade-up register-panel">
+					<!--<center><section id="intro" class="wrapper style1 fullscreen fade-up register-panel">
 						<div id="register" class="inner">
 							<h1>hackGFS // May 14 - 15, 2016</h1>
 							<p>We hope to see you there!</p>
@@ -197,7 +208,96 @@
 								<li><a target="_blank" href="http://bit.ly/hackgfsregister" class="button scrolly">Register Now!</a></li>
 							</ul></center>
 						</div>
-					</section></center>
+					</section></center>-->
+
+
+					<style type="text/css">
+							.partners{
+								margin-right: 30px!important;
+								margin-left: 30px !important;
+								max-height: 150px!important;
+							}
+
+							.sponsors{
+								max-height: 100px!important;
+								max-width: 100%!important;
+								vertical-align: top!important;
+								padding-left: 5px;
+							}
+
+
+							tr {
+
+								border: none!important;
+
+							}
+
+							tr > td {
+								background-color: none!important;
+								padding-right: 0px !important;
+								width: 25%!important;
+								position: relative!important;
+								margin: auto!important;
+							}
+
+							td > a {
+								border-bottom: none!important;
+							}
+
+
+					</style>
+
+					<section id="sponsors" class="wrapper style1 fade-up">
+						<div class="inner flex">
+
+							<center><h2>Our Sponsors:</h2></center>
+
+							<table class="s-layout">
+								<tbody>
+									<tr>
+									</tr>
+									<tr>
+										<td>
+											<a target="_blank" href="https://lob.com/"><img class="sponsors" src="sponsors/lob.png"></a>
+										</td>
+
+										<td>
+											<a target="_blank" style="margin-left: -15px" href="http://launchsummer.org/"><img class="sponsors" src="sponsors/mitlaunch.png"></a>
+										</td>
+
+										<td>
+											<a target="_blank" href="https://www.figma.com/"><img class="sponsors" src="sponsors/figma.png"></a>
+										</td>
+
+										<td>
+											<a target="_blank" href="https://www.makeschool.com/"><img class="sponsors" src="sponsors/makeschool.png"></a>
+										</td>
+										
+									</tr>
+
+								</tbody>
+								
+							</table>
+
+							<center><h2>Partnered with:</h2></center>
+
+							<table class="p-layout">
+								<tbody>
+									<tr></tr>
+									<tr>
+										<td>
+											<a target="_blank" href="https://mlh.io/"><img class="partners" src="images/mlh-logo.png"></a>
+										</td>
+									</tr>
+								</tbody>
+								
+							</table>
+							
+						</div>
+
+						
+
+					</section>
 
 
 
@@ -245,33 +345,6 @@
 					
 
 					<!--<iframe frameborder="0" height="500" scrolling="no" src="https://www.kickstarter.com/projects/404243180/hackgfs/widget/card.html?v=2" width="350"></iframe>-->
-					<!--<style type="text/css">
-							.partners{
-								margin-right: 30px!important;
-								margin-left: 30px !important;
-							}
-
-							#sponsors{
-								padding: 30px;
-							}
-
-					</style>
-
-					<section id="sponsors" class="wrapper style1 spotlights">
-						
-						<!--<center><h2>Partnered With:</h2></center>-->
-						<!--<section>
-							<a class="image partners" target="_blank" href="https://mlh.io/"><img src="images/mlh-logo.png" alt="" data-position="center" data-size="contain" data-repeat="no-repeat" /></a>
-						</section>-->
-
-						<!--<center><h2>Sponsored By:</h2></center>-->
-						<!--<section>
-							<a class="image partners" style="height:100px" target="_blank" href="https://mlh.io/"><img src="sponsors/lob.png" alt="" data-position="center" data-size="contain" data-repeat="no-repeat" /></a>
-						</section>
-
-						
-
-					</section>
 
 					<!--<footer id="footer" class="wrapper style2-alt">
 						<div class="inner">
