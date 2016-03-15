@@ -132,7 +132,7 @@
 								<section>
 									<span class="icon major fa-lock"></span>
 									<h3>Who can attend hackGFS?</h3>
-									<p>Anyone currently enrolled in high school can apply to attend hackGFS.  Unfortunately, high school graduates cannot participate as a hacker, but you can be a mentor and help others!</p>
+									<p>Anyone currently enrolled in high school can apply to attend hackGFS.  Unfortunately, high school graduates cannot participate as a hacker, but you can be a mentor and help others! The only thing that we require from our participants is that they follow this <a href="http://static.mlh.io/docs/mlh-code-of-conduct.pdf" target="_blank">code of conduct</a></p>
 								</section>
 								<section>
 									<span class="icon major fa-cog"></span>
