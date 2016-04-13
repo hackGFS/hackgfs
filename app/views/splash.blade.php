@@ -14,11 +14,6 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
-		<style type="text/css">
-			.register-panel{
-				background-image: url("assets/css/images/nav.jpg")!important;
-			}
-		</style>
 
 		<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 	</head>
@@ -365,6 +360,11 @@
 					</footer>-->
 
 			</div>
+			<style type="text/css">
+			.register-panel{
+				background-image: url("assets/css/images/nav.jpg")!important;
+			}
+			</style>
 
 		<!-- Scripts -->
 			<script src="{{asset('assets/js/jquery.min.js')}}"></script>
