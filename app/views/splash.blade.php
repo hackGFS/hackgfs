@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>hackGFS // May 14 - 15, 2016 | Philadelphia's First High School Hackathon</title>
+		<title>hackGFS // May 14th, 2016 | Philadelphia's First High School Hackathon</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -14,11 +14,6 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
-		<style type="text/css">
-			.register-panel{
-				background-image: url("assets/css/images/nav.jpg")!important;
-			}
-		</style>
 
 		<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 	</head>
@@ -61,7 +56,7 @@
 							<img src="https://s3.amazonaws.com/logged-assets/trust-badge/s2016.png" alt="MLH Official - Spring 2016" style="width:100%;" >
 						</a>
 						<div class="inner">
-							<h1>hackGFS // May 14 - 15, 2016</h1>
+							<h1>hackGFS // May 14th, 2016</h1>
 							<p>Engineered by a few, structured for all</p>
 							<center><ul class="actions">
 								<li><a href="#one" class="button scrolly">Learn more</a></li>
@@ -90,7 +85,7 @@
 							<div class="content">
 								<div class="inner">
 									<h2>When?</h2>
-									<p>hackGFS is a 24 hour hackathon starting at 2 PM on May 14th, and ending at 2 PM on May 15th. Our schedule is in the works, so stay tuned by subscribing to hear when it comes out!</p>
+									<p>hackGFS is a 12 hour hackathon from 10 AM to 10 PM on May 14th. Our schedule is in the works, so stay tuned by subscribing to hear when it comes out!</p>
 									<!--<ul class="actions">
 										<li><a href="#" class="button">Save the Date</a></li>
 									</ul>-->
@@ -120,14 +115,14 @@
 								<section>
 									<span class="icon major fa-clock-o"></span>
 									<h3>When is the event again?</h3>
-									<p>hackGFS is from 2:00 PM, May 14th until 2:00 PM, May 15th.
+									<p>hackGFS is from 10 AM to 10 PM on May 14th.
 									</p>
 									<a target="_blank" href="http://bit.ly/hackgfsregister" class="button scrolly">Register</a>
 								</section>
 								<section>
 									<span class="icon major fa-code"></span>
 									<h3>What is hackGFS?</h3>
-									<p>hackGFS is the first hackathon run by students from Germantown Friends School in Philadelphia.  A hackathon is a social event where you are given 24 hours to build something dope while meeting new people and expanding your knowledge.  </p>
+									<p>hackGFS is the first hackathon run by students from Germantown Friends School in Philadelphia.  A hackathon is a social event where you are given time to build something dope while meeting new people and expanding your knowledge.  </p>
 								</section>
 								<section>
 									<span class="icon major fa-lock"></span>
@@ -365,6 +360,11 @@
 					</footer>-->
 
 			</div>
+			<style type="text/css">
+			.register-panel{
+				background-image: url("assets/css/images/nav.jpg")!important;
+			}
+			</style>
 
 		<!-- Scripts -->
 			<script src="{{asset('assets/js/jquery.min.js')}}"></script>
