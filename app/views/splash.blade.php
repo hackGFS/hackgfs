@@ -186,7 +186,7 @@
 							<div class="content">
 								<div class="inner">
 									<h2>3rd Place: GoPro Hero Session</h2>
-									<p>Small and light, with easy one-button control and rugged, waterproof design. HERO Session is perfect for the first-time GoPro user who wants the simplest, grab- and-go capture experience.<b>hackGFS will award each member of the third place team a GoPro Hero Session</b></p>
+									<p>Small and light, with easy one-button control and rugged, waterproof design. HERO Session is perfect for the first-time GoPro user who wants the simplest, grab- and-go capture experience. <b>hackGFS will award each member of the third place team a GoPro Hero Session</b></p>
 									<ul class="actions">
 										<li><a target="_blank" href="https://shop.gopro.com/cameras/hero-session/CHDHS-102.html" class="button">Learn More</a></li>
 									</ul>
