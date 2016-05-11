@@ -26,12 +26,12 @@
 						<ul>
 							<li><a href="#intro">Welcome</a></li>
 							<li><a href="#one">What, When and Where</a></li>
+							<li><a id="linkRegister" href="#">Register</a></li>
 							<li><a href="#two">FAQ</a></li>
 							<li><a href="#prizes">Prizes</a></li>
-							<li><a id="linkRegister" href="#">Register</a></li>
 							<li><a href="#sponsors">Sponsors</a></li>
 							<li><a href="#subscribe">Subscribe</a></li>
-							<li><a id="linkKickstarter" href="#">Kickstarter</a></li>
+							<!--<li><a id="linkKickstarter" href="#">Kickstarter</a></li>-->
 
 							<script type="text/javascript">
 								$('#linkRegister').on('click', function(){
@@ -57,7 +57,7 @@
 						</a>
 						<div class="inner">
 							<h1>hackGFS // May 14th, 2016</h1>
-							<p>Engineered by a few, structured for all</p>
+							<p>What will you <a target="_blank" href="https://twitter.com/intent/tweet?button_hashtag=hackgfs">#create?</a></p>
 							<center><ul class="actions">
 								<li><a href="#one" class="button scrolly">Learn more</a></li>
 								<li><a target="_blank" href="http://bit.ly/hackgfsregister" class="button scrolly">Register</a></li>
@@ -268,6 +268,25 @@
 											<a target="_blank" href="https://www.makeschool.com/"><img class="sponsors" src="sponsors/makeschool.png"></a>
 										</td>
 										
+									</tr>
+									<tr></tr>
+									<tr>
+
+										<td>
+											<a target="_blank" style="margin-left: -15px" href="http://www.rpmgt.com/"><img class="sponsors" src="sponsors/rp.png"></a>
+										</td>
+
+										<td>
+											<a target="_blank" href="http://hackalliance.io/"><img class="sponsors" src="sponsors/hackalliance.png"></a>
+										</td>
+
+										<!--<td>
+											<a target="_blank" href="http://culinartgroup.com/"><img class="sponsors" src="sponsors/culinart.png"></a>
+										</td>-->
+
+										<td>
+											<a target="_blank" href="http://us.bsdacademy.com/"><img class="sponsors" src="sponsors/bsd.png"></a>
+										</td>
 									</tr>
 
 								</tbody>
