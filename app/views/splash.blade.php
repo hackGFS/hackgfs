@@ -280,9 +280,9 @@
 											<a target="_blank" href="http://hackalliance.io/"><img class="sponsors" src="sponsors/hackalliance.png"></a>
 										</td>
 
-										<!--<td>
+										<td>
 											<a target="_blank" href="http://culinartgroup.com/"><img class="sponsors" src="sponsors/culinart.png"></a>
-										</td>-->
+										</td>
 
 										<td>
 											<a target="_blank" href="http://us.bsdacademy.com/"><img class="sponsors" src="sponsors/bsd.png"></a>
