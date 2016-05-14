@@ -61,7 +61,7 @@
 							<center><ul class="actions">
 								<li><a href="#one" class="button scrolly">Learn more</a></li>
 								<li><a target="_blank" href="http://bit.ly/hackgfsregister" class="button scrolly">Register</a></li>
-								<!--<li><a href="http://hackgfs.io/sponsorship.pdf" class="button scrolly">Sponsor</a></li>-->
+								<li><a href="https://goo.gl/mIv7Fg" target="_blank" class="button scrolly">Present</a></li>
 							</ul></center>
 						</div>
 					</section></center>
