@@ -132,7 +132,7 @@
 								<section>
 									<span class="icon major fa-cog"></span>
 									<h3>How much does it cost?</h3>
-									<p>Free!  hackGFS is a free event that will provide you with meals, snacks, classic hackathon swag like shirts and sunglasses.  Unfortunately, we will not be providing travel reimbursement for this event.</p>
+									<p>Free!  hackGFS is a free event that will provide you with meals, snacks, classic hackathon swag like shirts.  Unfortunately, we will not be providing travel reimbursement for this event.</p>
 								</section>
 								<section>
 									<span class="icon major fa-desktop"></span>
